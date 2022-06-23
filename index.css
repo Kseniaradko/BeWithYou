@@ -1,0 +1,14 @@
+body {
+    background: floralwhite;
+}
+
+.container {
+    color: darkslategray;
+    text-align: center;
+    font-style: italic;
+}
+
+.image {
+    width: 300px;
+    height: 450px;
+}
